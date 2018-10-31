@@ -1,0 +1,28 @@
+img {
+    width: 400px;
+}
+h1 {
+    COLOR: pink;
+}
+h2 {
+    font-size: 40px;
+    border: dotted;
+    color: white;
+}
+h3 {
+    font-size: 40px;
+    color: white;
+}
+p {
+    font-size: 40px;
+    color: white;
+}
+li { 
+    color: white;
+    font-size: 40px;
+}
+body {
+    text-align: center;
+    background: url('http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/4w/46/p04w46sp.jpg');
+    
+}
